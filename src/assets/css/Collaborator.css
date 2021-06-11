@@ -1,0 +1,250 @@
+/* .collaborator {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e4e4e4;
+}
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 67px;
+}
+.campaignName {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 67px;
+}
+.image {
+    border-radius: 50%
+}
+.textColor {
+    color: grey;
+    align-self: flex-end;
+    font-size: 15px;
+}
+.icon {
+    width: 17px;
+    height: 17px;
+}
+.name {
+    font-size: 16px;
+}
+.channels {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 50%
+} */
+/* 
+.collaborator {
+    margin: 5%
+} */
+/* .image {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px
+}
+.channels {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start; */
+    /* justify-content: space-between; */
+    /* width: 100%
+} 
+.icon {
+    width: 17px;
+    height: 17px;
+    margin-right: 2px;
+}
+.reach {
+    display: flex;
+    flex-direction: column
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.categoryDisplay {
+    display: flex;
+    flex-direction: row;
+}
+.category {
+    color: grey;
+    border: 2px solid gray;
+    font-size: 15px;
+    border-radius: 4px; */
+    /* display: inline-block; */
+    /* padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+} */
+.co-collab {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    /* width: 100%; */
+    margin-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e4e4e4;
+}
+.co-contain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    height: 67px;
+    width: 100%
+}
+.co-influencerName {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 67px;
+}
+.co-image {
+    width: 70px;
+    height: 70px;
+    padding: 0%;
+    margin-right: 20px;
+    border-radius: 50%
+}
+.co-textColor {
+    color: grey;
+    align-self: flex-end;
+    font-size: 16px;
+}
+.co-icon {
+    width: 17px;
+    height: 17px;
+}
+.co-name {
+    font-size: 16px;
+    font-weight: bold;
+}
+.co-channels {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.co-reach {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* width: 100% */
+}
+.co-time {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.co-gap {
+    margin-right: 15px;
+    /* font-size: 14px; */
+}
+.co-posts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+    height: 67px;
+    width: 100%
+}
+.co-categoryDisplay {
+    display: flex;
+    flex-direction: row;
+    height: 58px;
+    align-items: flex-end;
+}
+.co-category {
+    color: grey;
+    border: 2px solid gray;
+    font-size: 15px;
+    border-radius: 4px;
+    display: inline-block; 
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.co-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    clear: both;
+    /* justify-content: space-between;
+    align-items: flex-end */
+}
+.co-check {
+    align-self: center;
+    margin-right: 30px;
+    /* background: lightgray; */
+}
+.co-shortdetail {
+    display: inline-block
+}
+.co-address {
+    font-size: 16px;
+}
+.s-align {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly
+}
+.s-name {
+    display: flex;
+    flex-direction: row;
+}
+.s-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.s-top {
+    margin-top: 5%;
+}
+.s-categoryDisplay {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+.vs-sidebar {
+    max-width: 530px;
+}
+.s-channels {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.s-image {
+    width: 70px;
+    height: 70px;
+    padding: 0%;
+    margin-right: 50px;
+    border-radius: 50%
+}
+.name-button {
+    background: transparent;
+    border: none
+}
+.invite {
+    background: grey;
+    color: white;
+    border: none;
+    padding: 15px;
+}
+/* .s-bottom {
+    margin-bottom: 10px;
+} */

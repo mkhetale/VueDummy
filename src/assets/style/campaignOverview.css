@@ -1,0 +1,73 @@
+.co-overviewMsg {
+    height: 120px;
+    background: #F9CC68;
+    width: 100%;
+    margin-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3%;
+    position: relative;
+    top: 60px;
+    /* margin-left: 3%;
+    margin-right: 3% */
+}
+p {
+    font-size: 20px;
+    color: white;
+}
+.co-overview {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 4%;
+    margin-right: 4%;
+
+
+    
+    /* align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+    background: #fff;
+    padding: 15px 30px;
+    border-radius: 7px; */
+}
+.co-arrow {
+    width: 18px;
+    height: 12px;
+}
+.co-topbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 3%;
+                /* padding-left: 3%; */
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    background: white;
+
+    /* z-index: 999;
+    background: white;
+
+    padding-top: 3%;
+    display: flex;
+    flex-direction: row;
+    align-items: center; */
+}
+h4 {
+    margin-left: 15px;
+}
+.co-backButton {
+    border: none;
+    background: transparent;
+}
+.co-details {
+    /* margin-left: 3% */
+    position: relative;
+    /* top: 60px; */
+    /* margin-top: 3%; */
+    width: 100%;
+}

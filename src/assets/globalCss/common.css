@@ -1,0 +1,72 @@
+
+/*pop up css*/
+.con-vs-dialog .vs-dialog{
+  padding: 15px;
+}
+.con-vs-dialog .vs-dialog header{
+  background: none;
+}
+.con-vs-dialog .vs-dialog header span.after{  
+  display:none;
+}
+.con-vs-dialog .vs-dialog header h3{
+font-size: 20px;
+color: #000000;
+text-align: center;
+}
+.con-exemple-prompt{
+font-size: 15px;
+color: #878787;
+}
+.vs-con-input-label{
+  width: 100%;
+  margin: 5px 0;
+}
+.con-vs-dialog .vs-dialog .vs-dialog-text{
+  margin-bottom: 10px;
+}
+.con-vs-dialog .vs-dialog header .vs-dialog-cancel{
+  display: none;
+}
+.con-vs-dialog .vs-dialog footer:before{
+  display: none;
+}
+.con-vs-dialog .vs-dialog footer{
+  justify-content: center;
+}
+.vs-button-primary.vs-button-filled
+{
+  background:#2362BE !important;
+}
+.vs-button-primary.vs-button-flat{
+  border:1px solid #2362BE !important;
+}
+.con-vs-dialog .vs-dialog footer button {
+    margin: 0 5px;
+    padding: 10px 20px;
+}
+.vs-input-primary .vs-input--input:focus{
+  border-color:#2362BE !important;
+}
+/* validation error */
+.validate-danger {
+  position: relative;
+  top: -5px;
+  background: #EA594A;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 0 0 0 12px;
+}
+.validate-danger:after {
+  color: red;
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: #ea584a;
+  top: 9px;
+  left: -3px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
